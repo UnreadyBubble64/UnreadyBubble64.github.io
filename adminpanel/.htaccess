@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "Admin panel"
-AuthUserFile root/adminpanel/.htpasswd
+AuthUserFile main/adminpanel/.htpasswd
 Require valid-user
